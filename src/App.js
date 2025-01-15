@@ -27,9 +27,7 @@ function App() {
           <td>Monday</td>
           <td style={{backgroundColor:"#FFFF00"}}>A</td>
           <td style={{backgroundColor:"#C4EED0"}}>
-            <a href='https://drive.google.com/drive/folders/1dwEZWR23KQLMfd1V3PXLYkrFxhbXrwb2' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
-              C(Thapsya Ma'am - Maitreyi)
-            </a>
+            C
           </td>
           <td style={{backgroundColor:"#FEF7E0"}}>
             <a href='https://drive.google.com/drive/folders/1nHm0EsTnWkrSAcMfiyldJw_0yyiGdDH-' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
@@ -41,7 +39,11 @@ function App() {
               F(Surya Sir - Sandipani)
             </a>
           </td>
-          <td>Lunch</td>
+          <td>
+            <a href='https://drive.google.com/drive/folders/1MWKtchMsx9xNO_Nf_jgy-h5-Tj4g166-?usp=sharing' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
+             I (Ruchi Ma'am - L-21)
+            </a>
+          </td>
           <td style={{backgroundColor:"#6BA5ED"}}>
             <a href='https://drive.google.com/drive/folders/1MBBLwWFM1fRYOfhVHT_BuBHO6zKtkk56' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
               G(Kapil Sir - Gargi)
@@ -57,16 +59,16 @@ function App() {
           <td style={{backgroundColor:"#FFFF00"}}>A</td>
           <td style={{backgroundColor:"#FFFF00"}}>A</td>
           <td style={{backgroundColor:"#FBBC04"}}>
-            <a href='https://drive.google.com/drive/folders/1M4PG0Hoy3n8l6WrHE1zVQhENhTkZSwTr' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
-              B(Ananya Ma'am - L-33)
-            </a>
+            B
           </td>
           <td style={{backgroundColor:"#C4EED0"}}>
-            <a href='https://drive.google.com/drive/folders/1dwEZWR23KQLMfd1V3PXLYkrFxhbXrwb2' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
-              C(Thapsya Ma'am - Maitreyi)
+            C
+          </td>
+          <td>
+            <a href='https://drive.google.com/drive/folders/1MWKtchMsx9xNO_Nf_jgy-h5-Tj4g166-?usp=sharing' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
+             I (Ruchi Ma'am - L-21)
             </a>
           </td>
-          <td>Lunch</td>
           <td style={{backgroundColor:"#6BA5ED"}}>
             <a href='https://drive.google.com/drive/folders/1MBBLwWFM1fRYOfhVHT_BuBHO6zKtkk56' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
               G(Kapil Sir - Gargi)
@@ -81,17 +83,17 @@ function App() {
           <td>Wednesday</td>
           <td style={{backgroundColor:"#34A853"}}>E</td>
           <td style={{backgroundColor:"#C4EED0"}}>
-            <a href='https://drive.google.com/drive/folders/1dwEZWR23KQLMfd1V3PXLYkrFxhbXrwb2' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
-              C(Thapsya Ma'am - Maitreyi)
-            </a>
+            C
           </td>
           <td style={{backgroundColor:"#FBBC04"}}>
-            <a href='https://drive.google.com/drive/folders/1M4PG0Hoy3n8l6WrHE1zVQhENhTkZSwTr' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
-              B(Ananya Ma'am - L-33)
-            </a>
+            B
           </td>
           <td style={{backgroundColor:"#FFFF00"}}>A</td>
-          <td>Lunch</td>
+          <td>
+            <a href='https://drive.google.com/drive/folders/1MWKtchMsx9xNO_Nf_jgy-h5-Tj4g166-?usp=sharing' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
+              I (Ruchi Ma'am - L-21)
+            </a>
+          </td>
           <td style={{backgroundColor:"#1A73E8"}}>
             <a href='https://drive.google.com/drive/folders/10UGLRzaL2GOAmuW5PtlKQBNBb3BDnIha' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
               H(Abhishek Sir - Kalidas)
@@ -107,15 +109,17 @@ function App() {
               F(Surya Sir - Sandipani)
             </a>
           </td>
-          <td>I</td>
+          <td>
+            <a href='https://drive.google.com/drive/folders/1cZ_dpO_GqEf3FO97KFR_dXiQMrr4uq1D?usp=sharing' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
+             Dev Eco - L-14
+            </a>
+          </td>
           <td>I</td>
         </tr>
         <tr>
           <td>Thursday</td>
           <td style={{backgroundColor:"#C4EED0"}}>
-            <a href='https://drive.google.com/drive/folders/1dwEZWR23KQLMfd1V3PXLYkrFxhbXrwb2' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
-              C(Thapsya Ma'am - Maitreyi)
-            </a>
+            C
           </td>
           <td style={{backgroundColor:"#FEF7E0"}}>
             <a href='https://drive.google.com/drive/folders/1nHm0EsTnWkrSAcMfiyldJw_0yyiGdDH-' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
@@ -149,15 +153,13 @@ function App() {
         </tr>
         <tr>
           <td>Friday</td>
-          <td style={{backgroundColor:"#FBBC04"}}>
-            <a href='https://drive.google.com/drive/folders/1M4PG0Hoy3n8l6WrHE1zVQhENhTkZSwTr' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
-              B(Ananya Ma'am - L-33)
+          <td>
+            <a href='https://drive.google.com/drive/folders/1cZ_dpO_GqEf3FO97KFR_dXiQMrr4uq1D?usp=sharing' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
+             Dev Eco - L-14
             </a>
           </td>
           <td style={{backgroundColor:"#FBBC04"}}>
-            <a href='https://drive.google.com/drive/folders/1M4PG0Hoy3n8l6WrHE1zVQhENhTkZSwTr' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
-              B(Ananya Ma'am - L-33)
-            </a>
+            B
           </td>
           <td style={{backgroundColor:"#FEF7E0"}}>
             <a href='https://drive.google.com/drive/folders/1nHm0EsTnWkrSAcMfiyldJw_0yyiGdDH-' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
@@ -175,6 +177,23 @@ function App() {
           <td>P2</td>
           <td>P3</td>
           <td>P4</td>
+        </tr>
+        <tr>
+          <td>Saturday</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td>
+            <a href='https://drive.google.com/drive/folders/1cZ_dpO_GqEf3FO97KFR_dXiQMrr4uq1D?usp=sharing' target='_blank' rel='noopener noreferrer' style={{ textDecoration: 'none', color: 'inherit' }}>
+             Dev Eco - L-14
+            </a>
+          </td>
+          <td>Lunch</td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
         </tr>
       </tbody>
     </table>
